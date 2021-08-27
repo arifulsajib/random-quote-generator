@@ -56,3 +56,8 @@ footer p {
     color: white;
     text-align: center;
 }
+
+footer p a {
+    text-decoration: none;
+    color: #5889c2;
+}
