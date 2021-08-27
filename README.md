@@ -8,8 +8,8 @@ generate random quote everytime you refresh the page / click the buttton
 
 ### Links
 
-- Live Site: [quote-generator](https://arifulsajib.github.io/tips-calculator-app/)
-- Code: [Github](https://github.com/arifulsajib/tips-calculator-app)
+- Live Site: [quote-generator](https://arifulsajib.github.io/random-quote-generator/)
+- Code: [Github](https://github.com/arifulsajib/random-quote-generator)
 
 
 
