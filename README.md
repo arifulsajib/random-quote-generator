@@ -1,5 +1,5 @@
 ## Random quote generator
-generate random quote everytime you refresh the page / click the buttton
+generate random quote everytime you refresh the page / click the generate buttton
 
 ### Built with
 - Semantic HTML5 markup
